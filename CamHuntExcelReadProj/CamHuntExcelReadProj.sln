@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamHuntExcelReadProj", "CamHuntExcelReadProj.csproj", "{B8A9361B-22EB-48E2-ADD2-7AD4FAB6B5F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamHuntExcelReadProj", "CamHuntExcelReadProj.csproj", "{B8A9361B-22EB-48E2-ADD2-7AD4FAB6B5F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84597530-5396-4FFF-B635-A82E372786E5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\FlightSearchResults.xlsx = ..\..\..\FlightSearchResults.xlsx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
